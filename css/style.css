@@ -19,14 +19,38 @@ h1 {
 header{background-color: skyblue;}
 
 /*Esta é uma regra CSS3 - títulos na fonte serifada*/
-h1{font-family: serif, sans-serif;}
-h2{font-family: serif, sans-serif;}
+h1
+{
+    font-family: serif, sans-serif;
+}
+
+h2
+{
+    font-family: serif, sans-serif;
+}
 
 /*Esta é uma regra CSS3 - links barra de navegação em negrito*/
-nav{font-weight: bold;}
+nav
+{
+    font-weight: bold;
+}
 
 /*Esta é uma regra CSS3 - margem classe container*/
-.container{margin: 20px}
+.container
+{
+    margin: 20px
+}
 
 /*Esta é uma regra CSS3 - ajuste de espaçamento*/
-#conteudo{line-height: 1.5;}
+#conteudo
+{
+    line-height: 1.5;
+}
+
+/*Esta é uma regra CSS3 - borda formulário*/
+form
+{
+    border: 1px solid gray; 
+    padding: 10px;
+}
+/*Esta é uma regra CSS3 - estilização formulário*/
