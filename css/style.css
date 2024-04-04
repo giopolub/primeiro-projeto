@@ -16,8 +16,8 @@ h1 {
 }
 
 /*Esta é uma regra CSS3*/
-header{background-color: blue;}
+header{background-color: skyblue;}
 
 /*Esta é uma regra CSS3*/
-h1{font-family: serif;}
-h2{font-family: serif;}
+h1{font-family: serif, sans-serif;}
+h2{font-family: serif, sans-serif;}
