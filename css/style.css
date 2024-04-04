@@ -71,3 +71,11 @@ button
     background-color: blue;
     color: white;
 }
+
+/*Esta é uma regra CSS3 - estilização rodapé*/
+footer
+{
+    border-top-style: solid;
+    border-color: red;
+    padding-top: 2px;
+}
