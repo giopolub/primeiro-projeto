@@ -3,20 +3,25 @@
 
 
 /*Esta é uma regra CSS3*/
-h1 {
+h1
+{
     color: red;
 }
 
 /*Esta é uma regra CSS3*/
 
 
-.link{
+.link
+{
     display: inline;
     margin: 5%;
 }
 
 /*Esta é uma regra CSS3 - cabeçalho em azul*/
-header{background-color: skyblue;}
+header
+{
+    background-color: skyblue;
+}
 
 /*Esta é uma regra CSS3 - títulos na fonte serifada*/
 h1
@@ -53,4 +58,16 @@ form
     border: 1px solid gray; 
     padding: 10px;
 }
-/*Esta é uma regra CSS3 - estilização formulário*/
+
+/*Esta é uma regra CSS3 - cor de texto*/
+p
+{
+    color: green;
+}
+
+/*Esta é uma regra CSS3 - estilização botões formulário*/
+button
+{
+    background-color: blue;
+    color: white;
+}
