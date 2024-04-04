@@ -22,8 +22,11 @@ header{background-color: skyblue;}
 h1{font-family: serif, sans-serif;}
 h2{font-family: serif, sans-serif;}
 
-/*Esta é uma regra CSS3 - cabeçalho em azul - links barra de navegação em negrito*/
+/*Esta é uma regra CSS3 - links barra de navegação em negrito*/
 nav{font-weight: bold;}
 
-/*Esta é uma regra CSS3 - cabeçalho em azul - links barra de navegação em negrito*/
+/*Esta é uma regra CSS3 - margem classe container*/
 .container{margin: 20px}
+
+/*Esta é uma regra CSS3 - ajuste de espaçamento*/
+#conteudo{line-height: 1.5;}
